@@ -37,7 +37,7 @@ This project is a React and TypeScript application that allows users to browse, 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/clo-interview.git
+git clone https://github.com/girdhar05/clo-connect-interview
 cd clo-interview
 ```
 
